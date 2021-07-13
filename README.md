@@ -5,15 +5,15 @@
 
 # 경력
 - LG CNS
- - Data Scientist
- - Machine Learning
+  - Data Scientist
+  - Machine Learning
 
  - Customer Data컨설팅팀
-  - 기간 : 
-  - 프로젝트 : 
+   - 기간 : 
+   - 프로젝트 : 
 
 
 
  - Customer Data분석팀
-  - 기간 : 
-  - 프로젝트 : 
+   - 기간 : 
+   - 프로젝트 : 
